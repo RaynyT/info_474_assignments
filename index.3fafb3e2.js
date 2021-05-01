@@ -26349,28 +26349,21 @@ try {
           lineNumber: 21,
           columnNumber: 13
         }
-      }, "Population estimates for the U.S., States, and counteis, 2010-19 (PopulationEstimates.csv)"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+      }, "Population estimates for the U.S., States, and counties, 2010-19 (PopulationEstimates.csv)"))), /*#__PURE__*/_reactDefault.default.createElement("h2", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 24,
+          lineNumber: 25,
           columnNumber: 7
         }
-      }, loading && "Loading data!"), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+      }, "Question 1. How have education rates evolved over time?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 26,
+          lineNumber: 27,
           columnNumber: 7
         }
-      }, "Question 1: What are the average daily vaccination rates for all countries?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 28,
-          columnNumber: 7
-        }
-      }, "Country Map for Average Daily Vaccinations"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+      }, "The Importance of Education Over Time"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
         width: "955",
         height: "955",
         style: {
@@ -26380,8 +26373,8 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 29,
-          columnNumber: 7
+          lineNumber: 28,
+          columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
         width: "100%",
@@ -26389,65 +26382,625 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 30,
-          columnNumber: 9
+          lineNumber: 29,
+          columnNumber: 13
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
-        src: "https://public.tableau.com/views/Assignment2-AverageDailyVacc/AverageDailyVaccinations?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true",
+        src: "https://public.tableau.com/views/ImportanceOfEducation/Sheet1?:language=en&:display_count=y&:origin=viz_share_link",
         width: "955",
         height: "955",
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 31,
-          columnNumber: 11
+          lineNumber: 30,
+          columnNumber: 13
         }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 36,
+          lineNumber: 35,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 36,
+          lineNumber: 35,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 36,
+          lineNumber: 35,
           columnNumber: 14
         }
       }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 37,
+          lineNumber: 36,
           columnNumber: 7
         }
-      }, "For this visualization we see how the countries with the largest populations have the largest Daily Vaccination Rates."), /*#__PURE__*/_reactDefault.default.createElement("p", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 42,
-          columnNumber: 7
-        }
-      }, "What was interesting to me was that countries like the UK, Canada, Australia, and South Korea were not at the same level of vaccination as the U.S., India, and China."), /*#__PURE__*/_reactDefault.default.createElement("p", {
+      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
         style: {
           marginBottom: "100px"
         },
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 48,
+          lineNumber: 40,
           columnNumber: 7
         }
-      }, "The unfortunate part about this data is that many countries in Africa haven't reported any statistics, therefore giving us an incomplete look at the world's daily vaccination rates."))
+      }), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 44,
+          columnNumber: 7
+        }
+      }, "Question 2. How do educational rates compare between Washington and the United States as a whole over time?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46,
+          columnNumber: 7
+        }
+      }, "Comparison of Graduation Rates Between the US National Averages and Washington's Over Time"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        width: "955",
+        height: "955",
+        style: {
+          border: "1px solid black",
+          marginBottom: "25px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 47,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 48,
+          columnNumber: 13
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/USNationalGraduationRateVS_WAGraduationRateAveragesOverTime/Sheet7?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49,
+          columnNumber: 13
+        }
+      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 54,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 54,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 54,
+          columnNumber: 14
+        }
+      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 55,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 59,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 63,
+          columnNumber: 7
+        }
+      }, "Change in Average Percent of Adults Who Sought Further Education After High School Over Time"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        width: "955",
+        height: "955",
+        style: {
+          border: "1px solid black",
+          marginBottom: "25px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 64,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 65,
+          columnNumber: 13
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/FurtherEducation_16198622541920/Sheet3?:language=en&:display_count=y&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 66,
+          columnNumber: 13
+        }
+      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 71,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 71,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 71,
+          columnNumber: 14
+        }
+      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 72,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 76,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 80,
+          columnNumber: 7
+        }
+      }, "Question 3. Are there geographical disparities in education acroos the US?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 82,
+          columnNumber: 7
+        }
+      }, "HS Graduation Rate Per State in US"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        width: "955",
+        height: "955",
+        style: {
+          border: "1px solid black",
+          marginBottom: "25px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 83,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 84,
+          columnNumber: 13
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/HSGraduationRatePerStateinUS/Sheet4?:language=en&:display_count=y&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 85,
+          columnNumber: 13
+        }
+      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 90,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 90,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 90,
+          columnNumber: 14
+        }
+      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 91,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 95,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 99,
+          columnNumber: 7
+        }
+      }, "The Percentage of Adults Who Have Attended College and Graduated"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        width: "955",
+        height: "955",
+        style: {
+          border: "1px solid black",
+          marginBottom: "25px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 100,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 101,
+          columnNumber: 13
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/ThePercentageofAdultsWhoHaveAttendedCollegeandGraduated/Sheet8?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 102,
+          columnNumber: 13
+        }
+      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 107,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 107,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 107,
+          columnNumber: 14
+        }
+      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 108,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 112,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 116,
+          columnNumber: 7
+        }
+      }, "The Distribution of Adults Who Have Graduated from a Four Year University Across the US Over 2015 - 2019"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        width: "955",
+        height: "955",
+        style: {
+          border: "1px solid black",
+          marginBottom: "25px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 117,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 118,
+          columnNumber: 13
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/DistributionofAdultswithBachelorsorHigherDegrees/Sheet9?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 119,
+          columnNumber: 13
+        }
+      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 124,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 124,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 124,
+          columnNumber: 14
+        }
+      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 125,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 129,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 133,
+          columnNumber: 7
+        }
+      }, "Question 4. What does the distribution of education levels look like?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 135,
+          columnNumber: 7
+        }
+      }, "Average Percent Distribution of Education Levels for Each State Through the Years 2015 - 2019"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        width: "955",
+        height: "955",
+        style: {
+          border: "1px solid black",
+          marginBottom: "25px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 136,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 137,
+          columnNumber: 13
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/EducationLevelPercentDistributionPerStateintheUS/Sheet5?:language=en&:display_count=y&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 138,
+          columnNumber: 13
+        }
+      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 143,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 143,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 143,
+          columnNumber: 14
+        }
+      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 144,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 148,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 152,
+          columnNumber: 7
+        }
+      }, "Question 5. Does population have an impact on educational levels?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 154,
+          columnNumber: 7
+        }
+      }, "Average Percent of Adults Who Have Graduated from High School for Each State During 2015 - 2019 Compared to Each State's Population"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        width: "955",
+        height: "955",
+        style: {
+          border: "1px solid black",
+          marginBottom: "25px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 155,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 156,
+          columnNumber: 13
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/PercentofHSGraduatesVS_StatePopulation/Sheet6?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 157,
+          columnNumber: 13
+        }
+      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 162,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 162,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 162,
+          columnNumber: 14
+        }
+      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 163,
+          columnNumber: 7
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 167,
+          columnNumber: 7
+        }
+      }))
     );
   };
   _s(App, "Jm65JCcgUFoenM4DufkEA80vRVI=", false, function () {
