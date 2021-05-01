@@ -1,0 +1,46 @@
+﻿Column variable name,Description
+FIPStxt,State-county FIPS code
+State,State abbreviation
+Area_name,Area name
+Rural-urban_Continuum_Code_2003,"Rural-urban Continuum Code, 2003"
+Urban_Influence_Code_2003,"Urban Influence Code, 2003"
+Rural-urban_Continuum_Code_2013,"Rural-urban Continuum Code, 2013"
+Urban_Influence_Code_2013,"Urban Influence Code, 2013"
+POVALL_2019,Estimate of people of all ages in poverty 2019
+CI90LBAll_2019,90% confidence interval lower bound of estimate of people of all ages in poverty 2019
+CI90UBALL_2019,90% confidence interval upper bound of estimate of people of all ages in poverty 2019
+PCTPOVALL_2019,Estimated percent of people of all ages in poverty 2019
+CI90LBALLP_2019,90% confidence interval lower bound of estimate of percent of people of all ages in poverty 2019
+CI90UBALLP_2019,90% confidence interval upper bound of estimate of percent of people of all ages in poverty 2019
+POV017_2019,Estimate of people age 0-17 in poverty 2019
+CI90LB017_2019,90% confidence interval lower bound of estimate of people age 0-17 in poverty 2019
+CI90UB017_2019,90% confidence interval upper bound of estimate of people age 0-17 in poverty 2019
+PCTPOV017_2019,Estimated percent of people age 0-17 in poverty 2019
+CI90LB017P_2019,90% confidence interval lower bound of estimate of percent of people age 0-17 in poverty 2019
+CI90UB017P_2019,90% confidence interval upper bound of estimate of percent of people age 0-17 in poverty 2019
+POV517_2019,Estimate of related children age 5-17 in families in poverty 2019
+CI90LB517_2019,90% confidence interval lower bound of estimate of related children age 5-17 in families in poverty 2019
+CI90UB517_2019,90% confidence interval upper bound of estimate of related children age 5-17 in families in poverty 2019
+PCTPOV517_2019,Estimated percent of related children age 5-17 in families in poverty 2019
+CI90LB517P_2019,90% confidence interval lower bound of estimate of percent of related children age 5-17 in families in poverty 2019
+CI90UB517P_2019,90% confidence interval upper bound of estimate of percent of related children age 5-17 in families in poverty 2019
+MEDHHINC_2019,Estimate of median household income 2019
+CI90LBINC_2019,90% confidence interval lower bound of estimate of median household income 2019
+CI90UBINC_2019,90% confidence interval upper bound of estimate of median household income 2019
+POV04_2019,Estimate of children ages 0 to 4 in poverty 2019 (available for the U.S. and State total only)
+CI90LB04_2019,90% confidence interval lower bound of estimate of children ages 0 to 4 in poverty 2019
+CI90UB04_2019,90% confidence interval upper bound of estimate of children ages 0 to 4 in poverty 2019
+PCTPOV04_2019,Estimated percent of children ages 0 to 4 in poverty 2019
+CI90LB04P_2019,90% confidence interval lower bound of estimate of percent of children ages 0 to 4 in poverty 2019
+CI90UB04P_2019,90% confidence interval upper bound of estimate of percent of children ages 0 to 4 in poverty 2019
+,
+Data sources:,"Rural classifications: USDA, Economic Research Service."
+,"Poverty and median household Income: U.S. Department of Commerce, Bureau of the Census, Small Area Income and Poverty Estimates (SAIPE) Program."
+,
+,
+"For more information contact: Kathleen Kassel, USDA/ERS.",
+"Updated January 5, 2021.",
+,
+,
+,
+,
