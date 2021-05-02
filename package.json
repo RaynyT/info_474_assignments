@@ -5,7 +5,7 @@
   "main": "dist/index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url https://RaynyT.github.io/info_474_assignments",
+    "build": "parcel build index.html --public-url https://raynyt.github.io/info_474_assignments",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rayna Tilley",
