@@ -26292,7 +26292,7 @@ try {
           lineNumber: 14,
           columnNumber: 7
         }
-      }, "Exploratory Data Analysis, Assignment 2, INFO 474 SP 2021"), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+      }, "Rayna Tilley's Exploratory Data Analysis of US Education, Assignment 2, INFO 474 SP 2021"), /*#__PURE__*/_reactDefault.default.createElement("h2", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
