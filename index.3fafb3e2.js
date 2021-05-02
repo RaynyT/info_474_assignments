@@ -26363,7 +26363,7 @@ try {
           lineNumber: 27,
           columnNumber: 7
         }
-      }, "The Importance of Education Over Time"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+      }, "Importance of Education"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
         width: "955",
         height: "955",
         style: {
@@ -26423,31 +26423,31 @@ try {
           lineNumber: 36,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+      }, "To adress this question I created a visual that demonstrates how education became more important over time. I aggregated data containing the percentages of adults who obtained their high school diploma or higher and took the average of all counties in that state. I then displayed the visual with all states to compare them and understand if the increase in importance was a common result for each state or just a few."), /*#__PURE__*/_reactDefault.default.createElement("p", {
         style: {
           marginBottom: "100px"
         },
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 40,
+          lineNumber: 42,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+      }, "From the results, it is clear that education did become increasingly important over time. One example is Georgia, in which in 1970 their high school graduation rate was 29.12% and in 2015-2019 it was 82.5%. All states are examples of this and most result in the 80% to 100% ranges for 2015-2019 compared to the 50% on average in 1970. This could be a result of farming, as it was more common that children stayed home from school to help their parents and families with farming during school seasons. Another reason could be that school in the 1970s were less about education and more advertised as a social location creating a less serious atmosphere."), /*#__PURE__*/_reactDefault.default.createElement("h2", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 44,
+          lineNumber: 50,
           columnNumber: 7
         }
       }, "Question 2. How do educational rates compare between Washington and the United States as a whole over time?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 46,
+          lineNumber: 52,
           columnNumber: 7
         }
-      }, "Comparison of Graduation Rates Between the US National Averages and Washington's Over Time"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+      }, "US National Graduation Rate VS. WA Graduation Rate Averages Over Time"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
         width: "955",
         height: "955",
         style: {
@@ -26457,7 +26457,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 47,
+          lineNumber: 53,
           columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
@@ -26466,65 +26466,58 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 48,
+          lineNumber: 54,
           columnNumber: 13
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
-        src: "https://public.tableau.com/views/USNationalGraduationRateVS_WAGraduationRateAveragesOverTime/Sheet7?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link",
+        src: "https://public.tableau.com/views/USNationalGraduationRateVS_WAGraduationRateAveragesOverTime/Sheet7?:language=en&:display_count=y&:origin=viz_share_link",
         width: "955",
         height: "955",
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 49,
+          lineNumber: 55,
           columnNumber: 13
         }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 54,
+          lineNumber: 60,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 54,
+          lineNumber: 60,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 54,
+          lineNumber: 60,
           columnNumber: 14
         }
       }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 55,
-          columnNumber: 7
-        }
-      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
         style: {
           marginBottom: "100px"
         },
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 59,
+          lineNumber: 61,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+      }, "As a WA resident I was curious how WA compared to the national averages. Thus for this first visualization, I chose to display the same graph above but with only the US and WA. Interestingly, the US had a higher average graduation rate in 1970 than in 1980 and that trend then increased after 1980. This is a very interesting finding that shows that the national averages for 1980 may have been dragged down by some states. The trend remains positive for WA however and WA's average high school graduation rate was lower in 1970 but since then has been higher than the US's average by a healthy 5% lead. Thus, WA's average graduation rate has been consistently higher than the US average since 1980."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 63,
+          lineNumber: 70,
           columnNumber: 7
         }
-      }, "Change in Average Percent of Adults Who Sought Further Education After High School Over Time"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+      }, "Further Education"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
         width: "955",
         height: "955",
         style: {
@@ -26534,7 +26527,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 64,
+          lineNumber: 71,
           columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
@@ -26543,7 +26536,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 65,
+          lineNumber: 72,
           columnNumber: 13
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
@@ -26553,59 +26546,59 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 66,
+          lineNumber: 73,
           columnNumber: 13
         }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 71,
+          lineNumber: 78,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 71,
+          lineNumber: 78,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 71,
+          lineNumber: 78,
           columnNumber: 14
         }
       }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 72,
+          lineNumber: 79,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+      }, "For this graph, I was curious how WA's average percent of adults who sought futher education after high school compared to the US's. I combined data containing both the percent of adults who obtained some college or an associate's degree with adults who obtained their bachelor's degree or higher. I also displayed this throughout time because I was curious if college also became more popular over the years."), /*#__PURE__*/_reactDefault.default.createElement("p", {
         style: {
           marginBottom: "100px"
         },
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 76,
+          lineNumber: 85,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+      }, "On average, WA has 2-3% more adults that seek further education after high school. Additionally, we can see that as time went on, more adults on average are seeking some sort of college educaiton which indicates that as jobs developed, it is expected that college degrees accompany it. This can also indicate that college gives opportunities to higher paying jobs and could also be a reason that more adults sought further education. Additionally, this increase can indicate the increase in women attending college throughout time since it wasn't as expected for women to go to college 50ish years ago. One fact that surprised me however is that 39% of adults stop obtaining education after highschool which seems like a large percentage of the population."), /*#__PURE__*/_reactDefault.default.createElement("h2", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 80,
+          lineNumber: 93,
           columnNumber: 7
         }
       }, "Question 3. Are there geographical disparities in education acroos the US?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 82,
+          lineNumber: 95,
           columnNumber: 7
         }
       }, "HS Graduation Rate Per State in US"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
@@ -26618,7 +26611,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 83,
+          lineNumber: 96,
           columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
@@ -26627,7 +26620,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 84,
+          lineNumber: 97,
           columnNumber: 13
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
@@ -26637,52 +26630,52 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 85,
+          lineNumber: 98,
           columnNumber: 13
         }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 90,
+          lineNumber: 103,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 90,
+          lineNumber: 103,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 90,
+          lineNumber: 103,
           columnNumber: 14
         }
       }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 91,
+          lineNumber: 104,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+      }, "At the UW, I am working on my geography minor so I was curious if there were any geographic disparities when it comes to education in the US. For my first visual, I graphed the average percent of high school graduates for each state in 2015-2019 to understand if there is a graphical pattern."), /*#__PURE__*/_reactDefault.default.createElement("p", {
         style: {
           marginBottom: "100px"
         },
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 95,
+          lineNumber: 109,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+      }, "Interestingly, it is clear from the color gradient, that as you go more towards the South in the US, the graduation reates lessen. This is also indicative with Puerto Rico which has the lowest high school graduation rate ot of all US states and territories with a 73.72% in 201502-19. This means that about 26 percent of adults in Puerto Rick have not graduated from high school in 2015-2019 which is shocking to me. This shows that impoverished countries and natural disasters impact education since in Puerto Rico there are many destructive hurricanes. Thus there are geographic disparities when it comes to high school graduation rates."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 99,
+          lineNumber: 117,
           columnNumber: 7
         }
       }, "The Percentage of Adults Who Have Attended College and Graduated"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
@@ -26695,158 +26688,74 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 100,
-          columnNumber: 9
-        }
-      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
-        width: "100%",
-        height: "100%",
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 101,
-          columnNumber: 13
-        }
-      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
-        src: "https://public.tableau.com/views/ThePercentageofAdultsWhoHaveAttendedCollegeandGraduated/Sheet8?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link",
-        width: "955",
-        height: "955",
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 102,
-          columnNumber: 13
-        }
-      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 107,
-          columnNumber: 7
-        }
-      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 107,
-          columnNumber: 11
-        }
-      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 107,
-          columnNumber: 14
-        }
-      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 108,
-          columnNumber: 7
-        }
-      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
-        style: {
-          marginBottom: "100px"
-        },
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 112,
-          columnNumber: 7
-        }
-      }), /*#__PURE__*/_reactDefault.default.createElement("h3", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 116,
-          columnNumber: 7
-        }
-      }, "The Distribution of Adults Who Have Graduated from a Four Year University Across the US Over 2015 - 2019"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
-        width: "955",
-        height: "955",
-        style: {
-          border: "1px solid black",
-          marginBottom: "25px"
-        },
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 117,
-          columnNumber: 9
-        }
-      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
-        width: "100%",
-        height: "100%",
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
           lineNumber: 118,
-          columnNumber: 13
+          columnNumber: 9
         }
-      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
-        src: "https://public.tableau.com/views/DistributionofAdultswithBachelorsorHigherDegrees/Sheet9?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link",
-        width: "955",
-        height: "955",
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 119,
           columnNumber: 13
         }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/ThePercentageofAdultsWhoHaveAttendedCollegeandGraduated/Sheet8?:language=en&:display_count=y&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 120,
+          columnNumber: 13
+        }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 124,
-          columnNumber: 7
-        }
-      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 124,
-          columnNumber: 11
-        }
-      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 124,
-          columnNumber: 14
-        }
-      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 125,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 125,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 125,
+          columnNumber: 14
+        }
+      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 126,
+          columnNumber: 7
+        }
+      }, "For this next visual I wanted to understand how many adults actually attended college and graduated with a bachelor's degree or higher. To do this, I aggregated the percent of adults who graduated from a university over the amount of adults who obtained some college or higher."), /*#__PURE__*/_reactDefault.default.createElement("p", {
         style: {
           marginBottom: "100px"
         },
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 129,
+          lineNumber: 131,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+      }, "These results wore shocking. Interestingly, there isn't too much of a graphical relation to this question but around 40% of adults who attended college acrtually graduate with a bachelor's degree or higher. This, to me, is a very low percentage where WA 42.12. This is astounding that only around 40% of adults who sought these opportunities actually obtain them."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 133,
+          lineNumber: 136,
           columnNumber: 7
         }
-      }, "Question 4. What does the distribution of education levels look like?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
-        __self: undefined,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 135,
-          columnNumber: 7
-        }
-      }, "Average Percent Distribution of Education Levels for Each State Through the Years 2015 - 2019"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+      }, "Distribution of Adults with Bachelor's or Higher Degrees"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
         width: "955",
         height: "955",
         style: {
@@ -26856,7 +26765,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 136,
+          lineNumber: 137,
           columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
@@ -26865,7 +26774,91 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 137,
+          lineNumber: 138,
+          columnNumber: 13
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/DistributionofAdultswithBachelorsorHigherDegrees/Sheet9?:language=en&:display_count=y&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 139,
+          columnNumber: 13
+        }
+      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 144,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 144,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 144,
+          columnNumber: 14
+        }
+      }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 145,
+          columnNumber: 7
+        }
+      }, "For my last visualization that addressees geographical disparities, I was curious if I could find the locations in which most of the four year university graduates reside or find jobs. To do this, I graphed the total number of four year university graduates in each state."), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 150,
+          columnNumber: 7
+        }
+      }, "From this visualization, I found that most university graduates reside in California with a total of nearly 18 million. This makes sense given California's population and the abundance of tech companies. Texas, New York and then Florida follow suit due to population as well but also due to the numerous large cities. It would be worth while to do this graph with cities instead to understand the distribution that way. From there I believe we would see a graphical representation of urbanization in the US in which big cities are where most of the jobs are located."), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 158,
+          columnNumber: 7
+        }
+      }, "Question 4. What does the distribution of education levels look like?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 160,
+          columnNumber: 7
+        }
+      }, "Education Level Percent Distribution Per State in the US"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        width: "955",
+        height: "955",
+        style: {
+          border: "1px solid black",
+          marginBottom: "25px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 161,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 162,
           columnNumber: 13
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
@@ -26875,62 +26868,97 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 138,
+          lineNumber: 163,
           columnNumber: 13
         }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 143,
+          lineNumber: 168,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 143,
+          lineNumber: 168,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 143,
+          lineNumber: 168,
           columnNumber: 14
         }
       }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 144,
+          lineNumber: 169,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+      }, "As I graphed all of these visualizations and different formations of data I was curious as to the distribution of education levels during 2015-2019. I created a stacked bar chart of the percent distribution for each level to obtain this information and answer my question."), /*#__PURE__*/_reactDefault.default.createElement("p", {
         style: {
           marginBottom: "100px"
         },
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 148,
+          lineNumber: 174,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+      }, "From this chart, we can see that DC has the highest percentage of university graduates out of all states and territories in the US which is interesting and could be representative of our government requiring a college educaiton. The next element my eye gravitates towards is the highest percentage of adults who have not obtained their high school diploma which again, like in previous visualizations, is Puerto Rico. After Puerto Rico, it seems that Southern states have the next highest percentage of adults who do not obtain a high school diploma. This graph is key in understanding the make up of each state and how they compare. For WA, the distribution is as follows:", /*#__PURE__*/_reactDefault.default.createElement("ul", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 152,
+          lineNumber: 180,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("li", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 181,
+          columnNumber: 13
+        }
+      }, "Less than High School Diploma: 10.88%"), /*#__PURE__*/_reactDefault.default.createElement("li", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 182,
+          columnNumber: 13
+        }
+      }, "High School Diploma: 26.03%"), /*#__PURE__*/_reactDefault.default.createElement("li", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 183,
+          columnNumber: 13
+        }
+      }, "Some College / Associate's Degree: 35.91%"), /*#__PURE__*/_reactDefault.default.createElement("li", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 184,
+          columnNumber: 13
+        }
+      }, " University Graduate: 27.20%")), "This shows that WA's most abundant educational level is some college or an associate's degree for 2015-2019."), /*#__PURE__*/_reactDefault.default.createElement("h2", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 189,
           columnNumber: 7
         }
       }, "Question 5. Does population have an impact on educational levels?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 154,
+          lineNumber: 191,
           columnNumber: 7
         }
-      }, "Average Percent of Adults Who Have Graduated from High School for Each State During 2015 - 2019 Compared to Each State's Population"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+      }, "Percent of HS Graduates VS. State Population"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
         width: "955",
         height: "955",
         style: {
@@ -26940,7 +26968,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 155,
+          lineNumber: 192,
           columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
@@ -26949,58 +26977,89 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 156,
+          lineNumber: 193,
           columnNumber: 13
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
-        src: "https://public.tableau.com/views/PercentofHSGraduatesVS_StatePopulation/Sheet6?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link",
+        src: "https://public.tableau.com/views/PercentofHSGraduatesVS_StatePopulation/Sheet6?:language=en&:display_count=y&:origin=viz_share_link",
         width: "955",
         height: "955",
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 157,
+          lineNumber: 194,
           columnNumber: 13
         }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 162,
+          lineNumber: 199,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 162,
+          lineNumber: 199,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 162,
+          lineNumber: 199,
           columnNumber: 14
         }
       }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 163,
+          lineNumber: 200,
           columnNumber: 7
         }
-      }), /*#__PURE__*/_reactDefault.default.createElement("p", {
+      }, "For my last question, I understood that geographic location had a relationship with high school graduation but I also wanted to see if population was a factor as well. In order to do this, I created a visual that used the size as the total number of adults who graduated from highschool and the color as the average percent of adults who graduated from college for each state."), /*#__PURE__*/_reactDefault.default.createElement("p", {
         style: {
           marginBottom: "100px"
         },
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 167,
+          lineNumber: 205,
           columnNumber: 7
         }
-      }))
+      }, "As I investigated this visual, I noticed that the the state with the highest average percent of high school graduates was WY with a 92.85% and a total number of graduates equal to 727,656 adults. Puerto Rico again has the lowest average percent of high school graduates with a 73.72%. It is unclear if these two variables are related, but the visual representation is quite interesting to ponder. In a way, this makes sense because with less people, it is more likely that the average percent of graduates is higher because education may be more tailored and a smaller amount of students is easier to education and focus on. This is just speculation however, and there may be other confounding variables that have a better relationship and explanation."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 213,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 213,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 213,
+          columnNumber: 14
+        }
+      }, "Lessons Learned"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 214,
+          columnNumber: 7
+        }
+      }, "The main lessons that I learned from this assignment are that interacting and experimenting with the data is the best way to find interesting visualizations and shocking information. By spending more time on understanding my data I was able to create interesting visuals that displayed intersting narratives. Additionally, it is important to understand the aggregated data created because as I went through this assignment, I found myself getting confused and needing to check each variable to ensure that its aggregation made sense. For instance, at one point I was adding percentages for each county within the state which ended in a total that didn't make sense."))
     );
   };
   _s(App, "Jm65JCcgUFoenM4DufkEA80vRVI=", false, function () {
