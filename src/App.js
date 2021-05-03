@@ -114,6 +114,7 @@ const App = () => {
         Thus there are geographic disparities when it comes to high school graduation rates.
       </p>
       
+      <h3>Original</h3>
       <h3>The Percentage of Adults Who Have Attended College and Graduated</h3>
         <svg width="955" height="955" style={{ border: "1px solid black", marginBottom: "25px" }}>
             <foreignObject width="100%" height="100%">
@@ -129,8 +130,30 @@ const App = () => {
       </p>
 
       <p style={{ marginBottom: "100px" }}>
-        These results wore shocking. Interestingly, there isn't too much of a graphical relation to this question but around 40% of adults who attended college acrtually graduate with a bachelor's degree or higher.
+        These results wore shocking. Interestingly, there isn't too much of a geographical relation to this question but around 40% of adults who attended college acrtually graduate with a bachelor's degree or higher.
         This, to me, is a very low percentage where WA 42.12. This is astounding that only around 40% of adults who sought these opportunities actually obtain them.
+      </p>
+
+      <h3>Updated - Criteria: Removing Color</h3>
+      <h3>The Percentage of Adults Who Have Attended College and Graduated - Sorted</h3>
+        <svg width="955" height="955" style={{ border: "1px solid black", marginBottom: "25px" }}>
+            <foreignObject width="100%" height="100%">
+            <iframe src="https://public.tableau.com/views/ThePercentageofAdultsWhoHaveAttendedCollegeandGraduated-Sorted/Sheet10?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"
+            width="955" height="955"></iframe>
+            </foreignObject>
+        </svg>
+
+      <h3><b><i>Feedback</i></b></h3>
+      <p>
+        Some feedback I received on this visual are that since there isn't too much information to extract from this information geographically, this would be a good visualization to reduce color and understand how the states relate to each other.
+        Thus, for this visualization I removed the geographical elements and put the data into a sorted bar chart that demonstrated the differences for each state.
+      </p>
+
+      <h3><b><i>Changes</i></b></h3>
+      <p style={{ marginBottom: "100px" }}>
+          By changing this visual, understanding the differences between the states is much easier since the color distribution on the geographical visualization wasn't as effective in conveying the disparities.
+          From this new version, I can see that DC has the highest percentage of adults who have attended college and successfully graduated with a bachelor's degree or higher.
+          Additionally, we can see that Idaho has the lowest which wasn't as easy to decipher in the previous visualization.
       </p>
 
       <h3>Distribution of Adults with Bachelor's or Higher Degrees</h3>
@@ -187,7 +210,8 @@ const App = () => {
       </p>
 
       <h2>Question 5. Does population have an impact on educational levels?</h2>
-
+      
+      <h3>Original</h3>
       <h3>Percent of HS Graduates VS. State Population</h3>
         <svg width="955" height="955" style={{ border: "1px solid black", marginBottom: "25px" }}>
             <foreignObject width="100%" height="100%">
@@ -208,6 +232,29 @@ const App = () => {
         It is unclear if these two variables are related, but the visual representation is quite interesting to ponder.
         In a way, this makes sense because with less people, it is more likely that the average percent of graduates is higher because education may be more tailored and a smaller amount of students is easier to education and focus on.
         This is just speculation however, and there may be other confounding variables that have a better relationship and explanation.
+      </p>
+
+      <h3>Updated - Criteria: Data Doesn't Match What Visualization is Trying to Convey</h3>
+      <h3>Percent of HS Graduates VS. Total State Population</h3>
+        <svg width="955" height="955" style={{ border: "1px solid black", marginBottom: "25px" }}>
+            <foreignObject width="100%" height="100%">
+            <iframe src="https://public.tableau.com/views/PercentofHSGraduatesVS_TotalStatePopulation/Sheet6?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link"
+            width="955" height="955"></iframe>
+            </foreignObject>
+        </svg>
+
+      <h3><b><i>Feedback</i></b></h3>
+      <p>
+        The feedback that I received illuminated the fact that my visualization was not displaying what I thought I was displaying.
+        My visualization was misleading because my title states that it is the average percent of adults who graduated from high school compared to total population however instead of total population, I was graphing the total number of people in each state who graduated from high school which doesn't include the people who haven't.
+      </p>
+      
+      <h3><b><i>Changes</i></b></h3>
+      <p style={{ marginBottom: "100px" }}>
+        In order to make this visualization more accurate I changed it so that the size is now conveyed via total population.
+        The visualization didn't change too much however it is more accurate now.
+        Ultimately, the trend is still accurate in that states with a smaller population do tend to have a higher percentage of high school graduates on average.
+        The difference here is that the state of WY now has a population of 781,032 instead of 727,656 and they still have the smallest population.
       </p>
 
       <h3><b><i>Lessons Learned</i></b></h3>
