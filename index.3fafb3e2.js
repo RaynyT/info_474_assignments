@@ -26594,7 +26594,7 @@ try {
           lineNumber: 93,
           columnNumber: 7
         }
-      }, "Question 3. Are there geographical disparities in education acroos the US?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+      }, "Question 3. Are there geographical disparities in education across the US?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
