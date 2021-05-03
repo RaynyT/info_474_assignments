@@ -90,7 +90,7 @@ const App = () => {
         One fact that surprised me however is that 39% of adults stop obtaining education after highschool which seems like a large percentage of the population.
       </p>
       
-      <h2>Question 3. Are there geographical disparities in education acroos the US?</h2>
+      <h2>Question 3. Are there geographical disparities in education across the US?</h2>
 
       <h3>HS Graduation Rate Per State in US</h3>
         <svg width="955" height="955" style={{ border: "1px solid black", marginBottom: "25px" }}>
