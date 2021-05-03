@@ -26678,6 +26678,13 @@ try {
           lineNumber: 117,
           columnNumber: 7
         }
+      }, "Original"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 118,
+          columnNumber: 7
+        }
       }, "The Percentage of Adults Who Have Attended College and Graduated"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
         width: "955",
         height: "955",
@@ -26688,7 +26695,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 118,
+          lineNumber: 119,
           columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
@@ -26697,7 +26704,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 119,
+          lineNumber: 120,
           columnNumber: 13
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
@@ -26707,35 +26714,35 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 120,
+          lineNumber: 121,
           columnNumber: 13
         }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 125,
+          lineNumber: 126,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 125,
+          lineNumber: 126,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 125,
+          lineNumber: 126,
           columnNumber: 14
         }
       }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 126,
+          lineNumber: 127,
           columnNumber: 7
         }
       }, "For this next visual I wanted to understand how many adults actually attended college and graduated with a bachelor's degree or higher. To do this, I aggregated the percent of adults who graduated from a university over the amount of adults who obtained some college or higher."), /*#__PURE__*/_reactDefault.default.createElement("p", {
@@ -26745,14 +26752,119 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 131,
+          lineNumber: 132,
           columnNumber: 7
         }
-      }, "These results wore shocking. Interestingly, there isn't too much of a graphical relation to this question but around 40% of adults who attended college acrtually graduate with a bachelor's degree or higher. This, to me, is a very low percentage where WA 42.12. This is astounding that only around 40% of adults who sought these opportunities actually obtain them."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+      }, "These results wore shocking. Interestingly, there isn't too much of a geographical relation to this question but around 40% of adults who attended college acrtually graduate with a bachelor's degree or higher. This, to me, is a very low percentage where WA 42.12. This is astounding that only around 40% of adults who sought these opportunities actually obtain them."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 136,
+          lineNumber: 137,
+          columnNumber: 7
+        }
+      }, "Updated - Criteria: Removing Color"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 138,
+          columnNumber: 7
+        }
+      }, "The Percentage of Adults Who Have Attended College and Graduated - Sorted"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        width: "955",
+        height: "955",
+        style: {
+          border: "1px solid black",
+          marginBottom: "25px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 139,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 140,
+          columnNumber: 13
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/ThePercentageofAdultsWhoHaveAttendedCollegeandGraduated-Sorted/Sheet10?:language=en&:display_count=y&publish=yes&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 141,
+          columnNumber: 13
+        }
+      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 146,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 146,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 146,
+          columnNumber: 14
+        }
+      }, "Feedback"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 147,
+          columnNumber: 7
+        }
+      }, "Some feedback I received on this visual are that since there isn't too much information to extract from this information geographically, this would be a good visualization to reduce color and understand how the states relate to each other. Thus, for this visualization I removed the geographical elements and put the data into a sorted bar chart that demonstrated the differences for each state."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 152,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 152,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 152,
+          columnNumber: 14
+        }
+      }, "Changes"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 153,
+          columnNumber: 7
+        }
+      }, "By changing this visual, understanding the differences between the states is much easier since the color distribution on the geographical visualization wasn't as effective in conveying the disparities. From this new version, I can see that DC has the highest percentage of adults who have attended college and successfully graduated with a bachelor's degree or higher. Additionally, we can see that Idaho has the lowest which wasn't as easy to decipher in the previous visualization."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 159,
           columnNumber: 7
         }
       }, "Distribution of Adults with Bachelor's or Higher Degrees"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
@@ -26765,7 +26877,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 137,
+          lineNumber: 160,
           columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
@@ -26774,7 +26886,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 138,
+          lineNumber: 161,
           columnNumber: 13
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
@@ -26784,35 +26896,35 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 139,
+          lineNumber: 162,
           columnNumber: 13
         }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 144,
+          lineNumber: 167,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 144,
+          lineNumber: 167,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 144,
+          lineNumber: 167,
           columnNumber: 14
         }
       }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 145,
+          lineNumber: 168,
           columnNumber: 7
         }
       }, "For my last visualization that addressees geographical disparities, I was curious if I could find the locations in which most of the four year university graduates reside or find jobs. To do this, I graphed the total number of four year university graduates in each state."), /*#__PURE__*/_reactDefault.default.createElement("p", {
@@ -26822,21 +26934,21 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 150,
+          lineNumber: 173,
           columnNumber: 7
         }
       }, "From this visualization, I found that most university graduates reside in California with a total of nearly 18 million. This makes sense given California's population and the abundance of tech companies. Texas, New York and then Florida follow suit due to population as well but also due to the numerous large cities. It would be worth while to do this graph with cities instead to understand the distribution that way. From there I believe we would see a graphical representation of urbanization in the US in which big cities are where most of the jobs are located."), /*#__PURE__*/_reactDefault.default.createElement("h2", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 158,
+          lineNumber: 181,
           columnNumber: 7
         }
       }, "Question 4. What does the distribution of education levels look like?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 160,
+          lineNumber: 183,
           columnNumber: 7
         }
       }, "Education Level Percent Distribution Per State in the US"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
@@ -26849,7 +26961,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 161,
+          lineNumber: 184,
           columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
@@ -26858,7 +26970,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 162,
+          lineNumber: 185,
           columnNumber: 13
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
@@ -26868,35 +26980,35 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 163,
+          lineNumber: 186,
           columnNumber: 13
         }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 168,
+          lineNumber: 191,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 168,
+          lineNumber: 191,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 168,
+          lineNumber: 191,
           columnNumber: 14
         }
       }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 169,
+          lineNumber: 192,
           columnNumber: 7
         }
       }, "As I graphed all of these visualizations and different formations of data I was curious as to the distribution of education levels during 2015-2019. I created a stacked bar chart of the percent distribution for each level to obtain this information and answer my question."), /*#__PURE__*/_reactDefault.default.createElement("p", {
@@ -26906,56 +27018,63 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 174,
+          lineNumber: 197,
           columnNumber: 7
         }
       }, "From this chart, we can see that DC has the highest percentage of university graduates out of all states and territories in the US which is interesting and could be representative of our government requiring a college educaiton. The next element my eye gravitates towards is the highest percentage of adults who have not obtained their high school diploma which again, like in previous visualizations, is Puerto Rico. After Puerto Rico, it seems that Southern states have the next highest percentage of adults who do not obtain a high school diploma. This graph is key in understanding the make up of each state and how they compare. For WA, the distribution is as follows:", /*#__PURE__*/_reactDefault.default.createElement("ul", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 180,
+          lineNumber: 203,
           columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("li", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 181,
+          lineNumber: 204,
           columnNumber: 13
         }
       }, "Less than High School Diploma: 10.88%"), /*#__PURE__*/_reactDefault.default.createElement("li", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 182,
+          lineNumber: 205,
           columnNumber: 13
         }
       }, "High School Diploma: 26.03%"), /*#__PURE__*/_reactDefault.default.createElement("li", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 183,
+          lineNumber: 206,
           columnNumber: 13
         }
       }, "Some College / Associate's Degree: 35.91%"), /*#__PURE__*/_reactDefault.default.createElement("li", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 184,
+          lineNumber: 207,
           columnNumber: 13
         }
       }, " University Graduate: 27.20%")), "This shows that WA's most abundant educational level is some college or an associate's degree for 2015-2019."), /*#__PURE__*/_reactDefault.default.createElement("h2", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 189,
+          lineNumber: 212,
           columnNumber: 7
         }
       }, "Question 5. Does population have an impact on educational levels?"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 191,
+          lineNumber: 214,
+          columnNumber: 7
+        }
+      }, "Original"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 215,
           columnNumber: 7
         }
       }, "Percent of HS Graduates VS. State Population"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
@@ -26968,7 +27087,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 192,
+          lineNumber: 216,
           columnNumber: 9
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
@@ -26977,7 +27096,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 193,
+          lineNumber: 217,
           columnNumber: 13
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
@@ -26987,35 +27106,35 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 194,
+          lineNumber: 218,
           columnNumber: 13
         }
       }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 199,
+          lineNumber: 223,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 199,
+          lineNumber: 223,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 199,
+          lineNumber: 223,
           columnNumber: 14
         }
       }, "Insights"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 200,
+          lineNumber: 224,
           columnNumber: 7
         }
       }, "For my last question, I understood that geographic location had a relationship with high school graduation but I also wanted to see if population was a factor as well. In order to do this, I created a visual that used the size as the total number of adults who graduated from highschool and the color as the average percent of adults who graduated from college for each state."), /*#__PURE__*/_reactDefault.default.createElement("p", {
@@ -27025,28 +27144,133 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 205,
+          lineNumber: 229,
           columnNumber: 7
         }
       }, "As I investigated this visual, I noticed that the the state with the highest average percent of high school graduates was WY with a 92.85% and a total number of graduates equal to 727,656 adults. Puerto Rico again has the lowest average percent of high school graduates with a 73.72%. It is unclear if these two variables are related, but the visual representation is quite interesting to ponder. In a way, this makes sense because with less people, it is more likely that the average percent of graduates is higher because education may be more tailored and a smaller amount of students is easier to education and focus on. This is just speculation however, and there may be other confounding variables that have a better relationship and explanation."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 213,
+          lineNumber: 237,
+          columnNumber: 7
+        }
+      }, "Updated - Criteria: Data Doesn't Match What Visualization is Trying to Convey"), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 238,
+          columnNumber: 7
+        }
+      }, "Percent of HS Graduates VS. Total State Population"), /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        width: "955",
+        height: "955",
+        style: {
+          border: "1px solid black",
+          marginBottom: "25px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 239,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("foreignObject", {
+        width: "100%",
+        height: "100%",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 240,
+          columnNumber: 13
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("iframe", {
+        src: "https://public.tableau.com/views/PercentofHSGraduatesVS_TotalStatePopulation/Sheet6?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link",
+        width: "955",
+        height: "955",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 241,
+          columnNumber: 13
+        }
+      }))), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 246,
           columnNumber: 7
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("b", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 213,
+          lineNumber: 246,
           columnNumber: 11
         }
       }, /*#__PURE__*/_reactDefault.default.createElement("i", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 213,
+          lineNumber: 246,
+          columnNumber: 14
+        }
+      }, "Feedback"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 247,
+          columnNumber: 7
+        }
+      }, "The feedback that I received illuminated the fact that my visualization was not displaying what I thought I was displaying. My visualization was misleading because my title states that it is the average percent of adults who graduated from high school compared to total population however instead of total population, I was graphing the total number of people in each state who graduated from high school which doesn't include the people who haven't."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 252,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 252,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 252,
+          columnNumber: 14
+        }
+      }, "Changes"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        style: {
+          marginBottom: "100px"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 253,
+          columnNumber: 7
+        }
+      }, "In order to make this visualization more accurate I changed it so that the size is now conveyed via total population. The visualization didn't change too much however it is more accurate now. Ultimately, the trend is still accurate in that states with a smaller population do tend to have a higher percentage of high school graduates on average. The difference here is that the state of WY now has a population of 781,032 instead of 727,656 and they still have the smallest population."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 260,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("b", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 260,
+          columnNumber: 11
+        }
+      }, /*#__PURE__*/_reactDefault.default.createElement("i", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 260,
           columnNumber: 14
         }
       }, "Lessons Learned"))), /*#__PURE__*/_reactDefault.default.createElement("p", {
@@ -27056,7 +27280,7 @@ try {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 214,
+          lineNumber: 261,
           columnNumber: 7
         }
       }, "The main lessons that I learned from this assignment are that interacting and experimenting with the data is the best way to find interesting visualizations and shocking information. By spending more time on understanding my data I was able to create interesting visuals that displayed intersting narratives. Additionally, it is important to understand the aggregated data created because as I went through this assignment, I found myself getting confused and needing to check each variable to ensure that its aggregation made sense. For instance, at one point I was adding percentages for each county within the state which ended in a total that didn't make sense."))
