@@ -26860,7 +26860,7 @@ try {
           lineNumber: 153,
           columnNumber: 7
         }
-      }, "By changing this visual, understanding the differences between the states is much easier since the color distribution on the geographical visualization wasn't as effective in conveying the disparities. From this new version, I can see that DC has the highest percentage of adults who have attended college and successfully graduated with a bachelor's degree or higher. Additionally, we can see that Idaho has the lowest which wasn't as easy to decipher in the previous visualization."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
+      }, "By changing this visual, understanding the differences between the states is much easier since the color distribution on the geographical visualization wasn't as effective in conveying the disparities. From this new version, I can see that DC has the highest percentage of adults who have attended college and successfully graduated with a bachelor's degree or higher. Additionally, we can see that NV has the lowest which wasn't as easy to decipher in the previous visualization."), /*#__PURE__*/_reactDefault.default.createElement("h3", {
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
